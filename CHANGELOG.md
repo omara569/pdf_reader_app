@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [1.0.3] : 06-24-2024
+
+- Updated README file with directions
+
 ## [1.0.2] : 06-24-2024
 
 - Adjusted message responses for proper prompting of user inputs
