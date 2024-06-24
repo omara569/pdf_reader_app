@@ -1,0 +1,11 @@
+# ignore venvironment
+venvironment/*
+faiss_index/*
+
+# ignore .env
+*.env
+
+# ignore notebooks
+*.ipynb
+
+testing.py
